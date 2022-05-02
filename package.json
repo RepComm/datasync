@@ -1,11 +1,11 @@
 {
-  "name": "ts-esm-babel-template",
+  "name": "@repcomm/datasync",
   "version": "1.0.0",
-  "description": "Babel template for compiling ts to esm",
+  "description": "make your runtime data trackable and distributable",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RepComm/ts-esm-babel-template.git"
+    "url": "git+https://github.com/RepComm/datasync.git"
   },
   "keywords": [
     "typescript",
@@ -16,9 +16,9 @@
   "author": "Jonathan Crowder",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/RepComm/ts-esm-babel-template/issues"
+    "url": "https://github.com/RepComm/datasync/issues"
   },
-  "homepage": "https://github.com/RepComm/ts-esm-babel-template#readme",
+  "homepage": "https://github.com/RepComm/datasync#readme",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.14.0",
