@@ -3,7 +3,7 @@ export type PeerPublicKey = string;
 
 export interface Peer {
   publicKey: PeerPublicKey;
-  dpHash
+  // dpHash
 }
 
 const cyrb53 = {
